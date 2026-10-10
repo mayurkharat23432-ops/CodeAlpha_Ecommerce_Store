@@ -1,0 +1,12 @@
+{
+  "users": [],
+  "orders": [],
+  "products": [
+    {"id":1,"name":"Wireless Headphones","price":1299,"category":"Electronics","description":"Comfortable wireless headphones","emoji":"🎧","stock":20},
+    {"id":2,"name":"Smart Watch","price":1899,"category":"Electronics","description":"Everyday smart watch","emoji":"⌚","stock":15},
+    {"id":3,"name":"Travel Backpack","price":999,"category":"Accessories","description":"Durable backpack for travel","emoji":"🎒","stock":25},
+    {"id":4,"name":"Running Shoes","price":1599,"category":"Fashion","description":"Lightweight running shoes","emoji":"👟","stock":18},
+    {"id":5,"name":"Coffee Mug","price":249,"category":"Home","description":"Ceramic daily-use mug","emoji":"☕","stock":40},
+    {"id":6,"name":"Desk Lamp","price":799,"category":"Home","description":"LED desk lamp","emoji":"💡","stock":12}
+  ]
+}
